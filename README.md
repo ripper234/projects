@@ -7,7 +7,7 @@ Various projects I want to do
 
 ## Specific projects
 
-- [RiotChess](https://github.com/ripper234/ChessRiot)
+- [RiotChess](https://github.com/ripper234/ChessRiot) ♟️
 
 ### Backlog
 
