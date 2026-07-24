@@ -8,6 +8,8 @@ Various projects I want to do
 ## Specific projects
 
 - [RiotChess](https://github.com/ripper234/ChessRiot) ♟️
+- WarmRoute (warm intros while traveling) ([private GPT](https://chatgpt.com/c/6a02ba36-c7c4-83eb-bc3e-537404a7bff0))
+- DBT Chatbot ([private GPT](https://chatgpt.com/c/6a02296f-e6ac-83eb-9911-16553404fa13))
 
 ### Backlog
 
